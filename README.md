@@ -79,15 +79,13 @@ This is an example of how to list things you need to use the software and how to
 * Open Termux, copy this line and paste it on Termux
 
 ```
-
-termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install wget && clear
-
+termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install wget && pkg install openjdk-17 && clear
 
 ```
 Git Clone
 ```
 
-git clone https://github.com/NGUYENTRIEUPHUC/dragonboy.git && cd Nro-Offline
+git clone https://github.com/NGUYENTRIEUPHUC/nro-offline.git && cd nro-offline
 
 ```
 
@@ -97,7 +95,7 @@ git clone https://github.com/NGUYENTRIEUPHUC/dragonboy.git && cd Nro-Offline
 
 ```
 
-php dragon.php
+python nro.py
 
 
 ``` 
