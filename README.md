@@ -10,18 +10,18 @@
     Ngọc Rồng Offline là Trò Chơi Ngoại Tuyến với cốt truyện xoay quanh bộ truyện tranh 7 viên Ngọc Rồng. Người chơi sẽ hóa thân thành một trong những anh hùng của 3 hành tinh: Trái Đất, Xayda, Namếc.Luyện tập, tăng cường sức mạnh và kỹ năng. Đoàn kết cùng chiến đấu chống lại các thế lực hung ác.
     <br/>
     <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NGUYENTRIEUPHUC/nro-offline"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline">View Demo</a>
+    <a href="https://github.com/NGUYENTRIEUPHUC/nro-offline">View Demo</a>
     .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Report Bug</a>
+    <a href="https://github.com/NGUYENTRIEUPHUC/nro-offline/issues">Report Bug</a>
     .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Request Feature</a>
+    <a href="https://github.com/NGUYENTRIEUPHUC/nro-offline/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Mad-Neko/Nro-Offline/total) ![Contributors](https://img.shields.io/github/contributors/Mad-Neko/Nro-Offline?color=dark-green) ![Forks](https://img.shields.io/github/forks/Mad-Neko/Nro-Offline?style=social) ![Stargazers](https://img.shields.io/github/stars/Mad-Neko/Nro-Offline?style=social) ![Issues](https://img.shields.io/github/issues/Mad-Neko/Nro-Offline) 
+![Downloads](https://img.shields.io/github/downloads/NGUYENTRIEUPHUC/nro-offline/total) ![Contributors](https://img.shields.io/github/contributors/NGUYENTRIEUPHUC/nro-offline?color=dark-green) ![Forks](https://img.shields.io/github/forks/NGUYENTRIEUPHUC/nro-offline?style=social) ![Stargazers](https://img.shields.io/github/stars/NGUYENTRIEUPHUC/nro-offline?style=social) ![Issues](https://img.shields.io/github/issues/NGUYENTRIEUPHUC/nro-offline) 
 
 ## Table Of Contents
 
@@ -31,9 +31,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -57,11 +55,11 @@ NRO Server on Termux Android
 ## Getting Started
 
  - Download APK (click on Picture): 
-<a href="https://download.apkcombo.com/com.termux/Termux_0.119.1_apkcombo.com.apk?ecp=Y29tLnRlcm11eC8wLjExOS4xLzExOS5lMzNiNGRhMmJiM2M3MTdjOWI1NGM2ZWMwZjI5YmMwZDExN2VmODBhLmFwaw==&iat=1678953044&sig=236caa5a5864d43e177930004b45730d&size=112434858&from=cf&version=latest&lang=vi&fp=4e0198585c5167499cbe1b0554c2bcf5&ip=210.245.51.174" target="_blank"><img alt="Termux" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/termux.png" />
+<a href="https://download.apkcombo.com/com.termux/Termux_0.119.1_apkcombo.com.apk?ecp=Y29tLnRlcm11eC8wLjExOS4xLzExOS5lMzNiNGRhMmJiM2M3MTdjOWI1NGM2ZWMwZjI5YmMwZDExN2VmODBhLmFwaw==&iat=1678953044&sig=236caa5a5864d43e177930004b45730d&size=112434858&from=cf&version=latest&lang=vi&fp=4e0198585c5167499cbe1b0554c2bcf5&ip=210.245.51.174" target="_blank"><img alt="Termux" src="https://github.com/NGUYENTRIEUPHUC/nro-offline/blob/main/icon/termux.png" />
 </a>
 
 - Download phpMyadmin APK (click on Picture): 
-<a href="https://download846.mediafire.com/88vj8x0jueogcBFR8er8o6bVgTd_0zsc1BcvRy6RvSNDzV84KcJpYOMgclvAUGRPlDU5M3A6rb-JcBMSj_yqGNAXoQ/5gb1sutpc0d2dg7/sql.zip" target="_blank"><img alt="sql" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/sql.png" />
+<a href="" target="_blank"><img alt="sql" src="https://github.com/NGUYENTRIEUPHUC/nro-offline/blob/main/images/sql.png" />
 
 </a>
 
@@ -69,7 +67,7 @@ NRO Server on Termux Android
 - Install Termux and phpMyadmin
 
 - Download NRO-OFFLINE APK (click on Picture): 
-<a href="https://github.com/Mad-Neko/backup1/raw/main/file/Nro-Offline.apk" target="_blank"><img alt="apk" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/nro.png" />
+<a href="/" target="_blank"><img alt="apk" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/images/nro.png" />
 
 </a>
 
@@ -137,8 +135,3 @@ php dragon.php
 
 * **PHUCBABY** - *Dev* - [PHUCBABY](https://github.com/NGUYENTRIEUPHUC) - *Nro Offline Termux*
 
-## Acknowledgements
-
-* [NRO Offline ](https://github.com/Mad-Neko/Nro-Offline)
-* [NSO Offline](coming soon)
-* [HSO Offline](coming soon)
