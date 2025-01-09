@@ -79,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
 * Open Termux, copy this line and paste it on Termux
 
 ```
-termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pip install requests && pip install tqdm && pip install colorama && pkg install openjdk-17 && git clone https://github.com/NGUYENTRIEUPHUC/nro-offline && cd nro-offline && python nro.py
+pkg update && pkg upgrade && pkg install git && pkg install python && pip install requests && pip install tqdm && pip install colorama && pkg install openjdk-17 && git clone https://github.com/NGUYENTRIEUPHUC/nro-offline && cd nro-offline && python nro.py
 
 ```
 
