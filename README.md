@@ -82,7 +82,10 @@ This is an example of how to list things you need to use the software and how to
 pkg update -y && pkg upgrade -y && pkg install git python openjdk-17 -y && pip install requests tqdm colorama pymysql && git clone https://github.com/NGUYENTRIEUPHUC/nro-offline && cd nro-offline && python nro.py
 
 ```
+Or
+```
 
+```
 ### Installation
 
 ![Screen Shot](/images/screenshot4.png)
