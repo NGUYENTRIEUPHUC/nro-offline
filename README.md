@@ -84,7 +84,10 @@ pkg update -y && pkg upgrade -y && pkg install git python openjdk-17 -y && pip i
 ```
 Or
 ```
-
+apt update
+apt upgrade -y
+clear
+curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/NGUYENTRIEUPHUC/nro-offline/main/install.sh" -o install.sh && bash install.sh
 ```
 ### Installation
 
